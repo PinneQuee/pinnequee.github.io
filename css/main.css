@@ -40,7 +40,7 @@ hr.line{
 
 .job{
     border-bottom: 1px dashed lightgrey;
-    margin-bottom:12px;
+    margin-bottom:18px;
 }
 
 table.skills i{
@@ -65,4 +65,8 @@ a:active {
 
 .diamond{
     font-size: 40px;
+}
+
+.fat{
+    letter-spacing: 4px;
 }
