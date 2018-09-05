@@ -8,7 +8,7 @@
 }
 
 div.cv-avatar{
-    background-image: url("../img/me2.jpg");
+    background-image: url("../img/img.jpg");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -69,4 +69,8 @@ a:active {
 
 .fat{
     letter-spacing: 4px;
+}
+
+article.job:last-child{
+    border-bottom: none;
 }
